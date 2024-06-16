@@ -9,77 +9,22 @@
 
 # Technical Skills
 
-<table>
-    <thead>
-        <tr>
-            <th style="background-color: blue; color: white;">Category</th>
-            <th style="background-color: blue; color: white;">Skills</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="background-color: blue;">Languages</td>
-            <td>Java, SQL</td>
-        </tr>
-        <tr>
-            <td style="background-color: blue;">Databases</td>
-            <td>PostgreSQL, MySQL, *.NSF (NoSQL)</td>
-        </tr>
-        <tr>
-            <td style="background-color: blue;">Frameworks</td>
-            <td>Spring, Cuba Platform, Alfresco</td>
-        </tr>
-        <tr>
-            <td style="background-color: blue;">APIs</td>
-            <td>REST API, Swagger, SOAP, WSDL, XML/XSD, JSON, Criteria API, JDBC/ODBC</td>
-        </tr>
-        <tr>
-            <td style="background-color: blue;">Containers</td>
-            <td>Tomcat, Apache, Apache Tomcat, Nginx</td>
-        </tr>
-        <tr>
-            <td style="background-color: blue;">ORM</td>
-            <td>Hibernate, Mybatis</td>
-        </tr>
-        <tr>
-            <td style="background-color: blue;">SSO</td>
-            <td>CAS</td>
-        </tr>
-        <tr>
-            <td style="background-color: blue;">Search</td>
-            <td>Lucene</td>
-        </tr>
-        <tr>
-            <td style="background-color: blue;">Testing</td>
-            <td>JUnit, Mockito</td>
-        </tr>
-        <tr>
-            <td style="background-color: blue;">Build</td>
-            <td>Gradle, Maven, Ant</td>
-        </tr>
-        <tr>
-            <td style="background-color: blue;">VCS</td>
-            <td>Git</td>
-        </tr>
-        <tr>
-            <td style="background-color: blue;">IDEs</td>
-            <td>IntelliJ IDEA, Eclipse, NetBeans</td>
-        </tr>
-        <tr>
-            <td style="background-color: blue;">OS</td>
-            <td>Linux, RHEL, Windows Server, AD</td>
-        </tr>
-        <tr>
-            <td style="background-color: blue;">Connections</td>
-            <td>VPN, RDP, SSH</td>
-        </tr>
-        <tr>
-            <td style="background-color: blue;">CI/CD</td>
-            <td>YouTrack, TeamCity</td>
-        </tr>
-        <tr>
-            <td style="background-color: blue;">Containerization</td>
-            <td>Docker, Docker Compose</td>
-        </tr>
-    </tbody>
-</table>
+| Category         | Skills                                                                 |
+|------------------|------------------------------------------------------------------------|
+| **Languages**    | Java, SQL                                                              |
+| **Databases**    | PostgreSQL, MySQL, *.NSF (NoSQL)                                       |
+| **Frameworks**   | Spring, Cuba Platform, Alfresco                                        |
+| **APIs**         | REST API, Swagger, SOAP, WSDL, XML/XSD, JSON, Criteria API, JDBC/ODBC  |
+| **Containers**   | Tomcat, Apache, Apache Tomcat, Nginx                                   |
+| **ORM**          | Hibernate, Mybatis                                                     |
+| **SSO**          | CAS                                                                    |
+| **Search**       | Lucene                                                                 |
+| **Testing**      | JUnit, Mockito                                                         |
+| **Build**        | Gradle, Maven, Ant                                                     |
+| **VCS**          | Git                                                                    |
+| **IDEs**         | IntelliJ IDEA, Eclipse, NetBeans                                       |
+| **OS**           | Linux, RHEL, Windows Server, AD                                        |
+| **Connections**  | VPN, RDP, SSH                                                          |
+| **CI/CD**        | YouTrack, TeamCity                                                     |
+| **Containerization** | Docker, Docker Compose                                             |
+
